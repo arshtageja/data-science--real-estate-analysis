@@ -1,0 +1,3 @@
+id,date,price,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,grade,sqft_above,sqft_basement,yr_built,yr_renovated,zipcode,lat,long,sqft_living15,sqft_lot15
+1442800370,20150415T000000,189950,2,1,1030,4188,1,0,0,3,8,1030,0,1981,0,98038,47.3738,-122.057,1450,3376
+3654200037,20150330T000000,380000,3,2.25,1530,1305,2,0,0,3,7,1116,414,2007,0,98177,47.7034,-122.357,1320,1427
